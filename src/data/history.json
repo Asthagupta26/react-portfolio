@@ -1,10 +1,24 @@
 [
   {
+    "role": "Mern Stack Trainee",
+    "organisation": "Cuvette",
+    "startDate": "May, 2024",
+    "endDate": "Present",
+    "experiences": [
+      "Proactively building hands-on expertise in developing full-stack applications and delivering industrial-grade projects with a focus on quality, scalability, and innovation.",
+      "Acquired hands-on experience in Model-View-Controller (MVC) architecture."
+    ],
+    "imageSrc": "history/cuvette.png"
+  },
+  {
     "role": "Web Developer Intern",
     "organisation": "Apna College",
     "startDate": "September, 2023",
     "endDate": "Febuary,2024",
-    "experiences": ["Got trained in Frontend as well as Backend Technologies","Acquired hands-on experience in Model-View-Controller (MVC) architecture."],
+    "experiences": [
+      "Got trained in Frontend as well as Backend Technologies",
+      "Acquired hands-on experience in Model-View-Controller (MVC) architecture."
+    ],
     "imageSrc": "history/apnacollege.png"
   },
   {
@@ -12,8 +26,11 @@
     "organisation": "Covrzy",
     "startDate": "May, 2023",
     "endDate": "Aug, 2023",
-    "experiences": ["Built web pages with the help of React.js and Typescript", "Worked on Node.js and Express.js for API Development","Created WhatsApp chatbot flow with the help of BotPenguin platform"],
+    "experiences": [
+      "Built web pages with the help of React.js and Typescript",
+      "Worked on Node.js and Express.js for API Development",
+      "Created WhatsApp chatbot flow with the help of BotPenguin platform"
+    ],
     "imageSrc": "history/covrzy.png"
   }
-  
 ]

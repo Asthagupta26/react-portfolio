@@ -1,16 +1,32 @@
 [
   {
+    "title": "Pro Manage",
+    "imageSrc": "projects/project.png",
+    "description": "Built a task management app with features for organizing tasks, tracking progress, and sharing updates. Enabled task creation, editing, assignment, and deletion to enhance productivity.",
+    "skills": ["MongoDb", "Express", "React", "Node"],
+    "demo": "https://extraordinary-douhua-62ecc6.netlify.app",
+    "source": "https://github.com/Asthagupta26/Pro-Manage-Frontend"
+  },
+  {
+    "title": "Food Delivery Website",
+    "imageSrc": "projects/project.png",
+    "description": "Built a food delivery app with features for browsing food items, placing orders, tracking deliveries, and secure payments. Added user profile management for viewing and updating information.",
+    "skills": ["MongoDb", "Express", "React", "Node"],
+    "demo": "https://food-delivery-orderuk.netlify.app",
+    "source": "https://github.com/Asthagupta26/Food-Delivery-App-Frontend"
+  },
+  {
     "title": "Wanderlust",
     "imageSrc": "projects/project.png",
-    "description": "Led the development and launch of Wanderlust, an innovative travel platform modeled after Airbnb.",
-    "skills": ["JavaScript", "Express", "Node","MongoDB"],
+    "description": "Built a travel platform clone of Airbnb,  user profiles, and property listings to provide a seamless travel experience.",
+    "skills": ["JavaScript", "Express", "Node", "MongoDB"],
     "demo": "https://github.com/Asthagupta26/WanderLust-Project",
     "source": "https://github.com/Asthagupta26/WanderLust-Project"
   },
   {
     "title": "Planet App",
     "imageSrc": "projects/project.png",
-    "description": "This beginner-friendly project demonstrates how to create a React app that uses the Star Wars API to display information",
+    "description": "Built a React app using the Star Wars API to display information about planets with a clean and interactive user interface.",
     "skills": ["React", "CSS", "Axios"],
     "demo": "https://github.com/Asthagupta26/Planet-App",
     "source": "https://github.com/Asthagupta26/Planet-App"
@@ -18,7 +34,7 @@
   {
     "title": "Weather App",
     "imageSrc": "projects/project.png",
-    "description": "This Weather App showcases my React and Material-UI skills, delivering real-time weather information in a user-friendly way.",
+    "description": "Built a weather app using React and Material-UI to display real-time weather updates with an intuitive and responsive design.",
     "skills": ["React", "MaterialUI"],
     "demo": "https://github.com/Asthagupta26/MaterialUI",
     "source": "https://github.com/Asthagupta26/MaterialUI"
